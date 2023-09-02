@@ -1,4 +1,4 @@
-# Introduction to Html
+# Introduction to Html and CSS
 
 ![App Screenshot]()
 
@@ -10,8 +10,8 @@
 - [Author](#author)
 
 ## Description
-This repository contains different files each one playing with some of different 
-void and non-void html tags as an introduction to html.
+This repository is about an introduction to html and css.It contains different files each one playing with some of different html
+tags and css styling methods and properties.
 
 ## Installation
 1. Clone the repository:
